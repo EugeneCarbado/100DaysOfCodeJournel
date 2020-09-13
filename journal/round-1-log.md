@@ -19,3 +19,10 @@
 * Tasks for tomorrow - Read up on poisitioning div elements in the book "CSS the missing manual".
 
 ...
+
+## Day 2
+
+* Project you are working on - (https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT)
+* Progress today - I changed my code alot when I realised I did not put every element in a div. I gained more insight into using flex box.
+* Challenges you faced - Figuring out flex box and how to implement it. 
+* Tasks for tomorrow - Start positioning the div's and sizing them so everything fits in.
