@@ -26,3 +26,10 @@
 * Progress today - I changed my code alot when I realised I did not put every element in a div. I gained more insight into using flex box.
 * Challenges you faced - Figuring out flex box and how to implement it. 
 * Tasks for tomorrow - Start positioning the div's and sizing them so everything fits in.
+
+## Day 3
+
+* Project you are working on - (https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT)
+* Progress today - Today I worked on some concepts with the box model. I used alot of css rules to resize certain elements so they could fit within their respective positions.
+* Challenges you faced - The box model sizing
+* Tasks for tomorrow - Sorting out the spacing between the author name and date elements
