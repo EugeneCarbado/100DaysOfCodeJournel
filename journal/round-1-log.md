@@ -33,3 +33,10 @@
 * Progress today - Today I worked on some concepts with the box model. I used alot of css rules to resize certain elements so they could fit within their respective positions.
 * Challenges you faced - The box model sizing
 * Tasks for tomorrow - Sorting out the spacing between the author name and date elements
+
+## Day 4
+
+* Project you are working on - (https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT)
+* Progress today - Started working on the share button and using css to hide unhide the social media links when pressed.
+* Challenges you faced - Figuring out how css animations work.
+* Tasks for tomorrow - Buiulding the unhidden social media links part of the share button.
