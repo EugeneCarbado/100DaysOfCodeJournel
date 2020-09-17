@@ -40,3 +40,10 @@
 * Progress today - Started working on the share button and using css to hide unhide the social media links when pressed.
 * Challenges you faced - Figuring out how css animations work.
 * Tasks for tomorrow - Buiulding the unhidden social media links part of the share button.
+
+## Day 5
+
+* Project you are working on - (https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT)
+* Progress today - I've now succesfully applied css to make the share box with working links
+* Challenges you faced - How css positions work!
+* Tasks for tomorrow - Hiding/unhinding share box.
