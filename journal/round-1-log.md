@@ -47,3 +47,10 @@
 * Progress today - I've now succesfully applied css to make the share box with working links
 * Challenges you faced - How css positions work!
 * Tasks for tomorrow - Hiding/unhinding share box.
+
+## Day 6
+
+* Project you are working on - (https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT)
+* Progress today - Today I used some Javascript to hide/unhide the share box when clicked.
+* Challenges you faced - Figuring out how the Javascript works to manipulate the element. Also making the pointer hide also!
+* Tasks for tomorrow - Hide the pointer along with the share box.
