@@ -54,3 +54,11 @@
 * Progress today - Today I used some Javascript to hide/unhide the share box when clicked.
 * Challenges you faced - Figuring out how the Javascript works to manipulate the element. Also making the pointer hide also!
 * Tasks for tomorrow - Hide the pointer along with the share box.
+
+## Day 7
+
+* Project you are working on - (https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT)
+* Progress today - I have now completed the look of my preview card for desktop websites! It is looking as it should be and the share button is working
+                   perfectly!
+* Challenges you faced - Sorting out the arrow for the share box so it hides/unhides also
+* Tasks for tomorrow - Now it is time to finish the mobile version of the card.
