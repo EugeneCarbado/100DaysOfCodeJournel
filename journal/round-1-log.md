@@ -62,3 +62,10 @@
                    perfectly!
 * Challenges you faced - Sorting out the arrow for the share box so it hides/unhides also
 * Tasks for tomorrow - Now it is time to finish the mobile version of the card.
+
+## Day 8
+
+* Project you are working on - (https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT)
+* Progress today - Finally finished the article preview card! I've also changed the media queries so that it can be viewed on mobile.
+* Challenges you faced - Using the correct media queries so when the card changes to a mobile view eevrything sits accordingly
+* Tasks for tomorrow - Start a new challenge!
