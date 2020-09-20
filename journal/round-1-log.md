@@ -69,3 +69,10 @@
 * Progress today - Finally finished the article preview card! I've also changed the media queries so that it can be viewed on mobile.
 * Challenges you faced - Using the correct media queries so when the card changes to a mobile view eevrything sits accordingly
 * Tasks for tomorrow - Start a new challenge!
+
+## Day 9
+
+* Project you are working on - (https://www.frontendmentor.io/challenges/coding-bootcamp-testimonials-slider-4FNyLA8JL)
+* Progress today - Today I started to plan for a new challenge. This time I will build a coding testimonial with a slider. I'll use HTML css and Javascript in this project also.
+* Challenges you faced - None
+* Tasks for tomorrow - Start writing the code!
