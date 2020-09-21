@@ -76,3 +76,10 @@
 * Progress today - Today I started to plan for a new challenge. This time I will build a coding testimonial with a slider. I'll use HTML css and Javascript in this project also.
 * Challenges you faced - None
 * Tasks for tomorrow - Start writing the code!
+
+## Day 10
+
+* Project you are working on - (https://www.frontendmentor.io/challenges/coding-bootcamp-testimonials-slider-4FNyLA8JL)
+* Progress today - Today I've written all of the html code in my slider testimonial.
+* Challenges you faced - Sorting out how all the elements will sit together.
+* Tasks for tomorrow - Start writting the css code.
