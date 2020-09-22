@@ -83,3 +83,11 @@
 * Progress today - Today I've written all of the html code in my slider testimonial.
 * Challenges you faced - Sorting out how all the elements will sit together.
 * Tasks for tomorrow - Start writting the css code.
+
+
+## Day 11
+
+* Project you are working on - (https://www.frontendmentor.io/challenges/coding-bootcamp-testimonials-slider-4FNyLA8JL)
+* Progress today - I've started building my testimonial card for mobile first. Today I've starting working on the background by placing the images where they need to be.
+* Challenges you faced - When resizing, the bottom image grows bigger! I need to think of the code that will stop this.
+* Tasks for tomorrow - Finish the css for the layout and images.
