@@ -91,3 +91,11 @@
 * Progress today - I've started building my testimonial card for mobile first. Today I've starting working on the background by placing the images where they need to be.
 * Challenges you faced - When resizing, the bottom image grows bigger! I need to think of the code that will stop this.
 * Tasks for tomorrow - Finish the css for the layout and images.
+
+## Day 12
+
+* Project you are working on - (https://www.frontendmentor.io/challenges/coding-bootcamp-testimonials-slider-4FNyLA8JL)
+* Progress today - Today I started writing the media queries for when the card switches to desktop.
+* Challenges you faced - Figuring out the correct rules for when the styles switch to desktop.
+* Tasks for tomorrow - Continue with sorting out the correct style rules.
+
