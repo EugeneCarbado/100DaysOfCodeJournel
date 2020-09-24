@@ -99,3 +99,10 @@
 * Challenges you faced - Figuring out the correct rules for when the styles switch to desktop.
 * Tasks for tomorrow - Continue with sorting out the correct style rules.
 
+## Day 13
+
+* Project you are working on - (https://www.frontendmentor.io/challenges/coding-bootcamp-testimonials-slider-4FNyLA8JL)
+* Progress today - Not much code today. Instead I was reading up on css flexbox. The background images need to be placed in a certain way and also be fluid. Once I
+learn what I need to know then it will help me as I progress on.
+* Challenges you faced - Learning up on css flexbox.
+* Tasks for tomorrow - Continue with reading!
