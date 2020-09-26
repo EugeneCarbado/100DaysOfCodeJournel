@@ -106,3 +106,19 @@
 learn what I need to know then it will help me as I progress on.
 * Challenges you faced - Learning up on css flexbox.
 * Tasks for tomorrow - Continue with reading!
+
+
+## Day 14
+
+* Project you are working on - (https://www.frontendmentor.io/challenges/coding-bootcamp-testimonials-slider-4FNyLA8JL)
+* Progress today - TodayI started using the flexbox cheatsheet provided by a kind person on twitter
+* Challenges you faced - Working out how flexbox works
+* Tasks for tomorrow - Work on flexbox.
+
+
+## Day 15
+
+* Project you are working on - (https://www.frontendmentor.io/challenges/coding-bootcamp-testimonials-slider-4FNyLA8JL)
+* Progress today - Today I've had to go back to sorting the background images as I have noticed that the container div is not taking up all of the space within the body tag.
+* Challenges you faced - Making the container fill out the body
+* Tasks for tomorrow - Getting the syntax I need to fill to make the container fill the body.
