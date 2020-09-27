@@ -122,3 +122,10 @@ learn what I need to know then it will help me as I progress on.
 * Progress today - Today I've had to go back to sorting the background images as I have noticed that the container div is not taking up all of the space within the body tag.
 * Challenges you faced - Making the container fill out the body
 * Tasks for tomorrow - Getting the syntax I need to fill to make the container fill the body.
+
+## Day 16
+
+* Project you are working on - (https://www.frontendmentor.io/challenges/coding-bootcamp-testimonials-slider-4FNyLA8JL)
+* Progress today - I've had an absolutely massive win today!  I've figured out how to use flexbox and now the background images are really coming together!
+* Challenges you faced - Sorting out what is actually going on with flexbox!
+* Tasks for tomorrow - Finsih with placing the background images, get the sizing right then move onto the desktop positioning.
