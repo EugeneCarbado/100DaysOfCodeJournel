@@ -129,3 +129,11 @@ learn what I need to know then it will help me as I progress on.
 * Progress today - I've had an absolutely massive win today!  I've figured out how to use flexbox and now the background images are really coming together!
 * Challenges you faced - Sorting out what is actually going on with flexbox!
 * Tasks for tomorrow - Finsih with placing the background images, get the sizing right then move onto the desktop positioning.
+
+
+## Day 17
+
+* Project you are working on - (https://www.frontendmentor.io/challenges/coding-bootcamp-testimonials-slider-4FNyLA8JL)
+* Progress today - Today I have started to work on the info section that will be the main section of the slider page containing the bio's and photos.
+* Challenges you faced - Trying to fit the bio section over the background.
+* Tasks for tomorrow - fitting the bio section onto the page.
