@@ -137,3 +137,10 @@ learn what I need to know then it will help me as I progress on.
 * Progress today - Today I have started to work on the info section that will be the main section of the slider page containing the bio's and photos.
 * Challenges you faced - Trying to fit the bio section over the background.
 * Tasks for tomorrow - fitting the bio section onto the page.
+
+## Day 18
+
+* Project you are working on - (https://www.frontendmentor.io/challenges/coding-bootcamp-testimonials-slider-4FNyLA8JL)
+* Progress today - Today was a challenge. I've figured out that the curve.jpg image is making a change to the container div. So now I have set it to % instead of px.
+* Challenges you faced - Figuring out how to contain the curve.jpg when it resizes.
+* Tasks for tomorrow - Finishing off background.
