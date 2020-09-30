@@ -144,3 +144,10 @@ learn what I need to know then it will help me as I progress on.
 * Progress today - Today was a challenge. I've figured out that the curve.jpg image is making a change to the container div. So now I have set it to % instead of px.
 * Challenges you faced - Figuring out how to contain the curve.jpg when it resizes.
 * Tasks for tomorrow - Finishing off background.
+
+## Day 19
+
+* Project you are working on - (https://www.frontendmentor.io/challenges/coding-bootcamp-testimonials-slider-4FNyLA8JL)
+* Progress today - Still having trouble making the div's sit properly within the container. I've figured that there is some way I have written the css rules that are not agreeing with how I have done them.
+* Challenges you faced - Findgin a way to make the curve div sit at the bottom of the page.
+* Tasks for tomorrow - Keep learning about flexbox.
