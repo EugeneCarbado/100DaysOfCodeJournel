@@ -149,5 +149,12 @@ learn what I need to know then it will help me as I progress on.
 
 * Project you are working on - (https://www.frontendmentor.io/challenges/coding-bootcamp-testimonials-slider-4FNyLA8JL)
 * Progress today - Still having trouble making the div's sit properly within the container. I've figured that there is some way I have written the css rules that are not agreeing with how I have done them.
-* Challenges you faced - Findgin a way to make the curve div sit at the bottom of the page.
+* Challenges you faced - Finding a way to make the curve div sit at the bottom of the page.
 * Tasks for tomorrow - Keep learning about flexbox.
+
+## Day 20
+
+* Project you are working on - (https://www.frontendmentor.io/challenges/coding-bootcamp-testimonials-slider-4FNyLA8JL)
+* Progress today - Today was a good one. I made 3 coloured boxes with the images inside to see how felxbox is actually working.
+* Challenges you faced - Today was more straight forward after following an example and implementing it.
+* Tasks for tomorrow - Keep learning about flexbox again.
