@@ -158,3 +158,11 @@ learn what I need to know then it will help me as I progress on.
 * Progress today - Today was a good one. I made 3 coloured boxes with the images inside to see how felxbox is actually working.
 * Challenges you faced - Today was more straight forward after following an example and implementing it.
 * Tasks for tomorrow - Keep learning about flexbox again.
+
+
+## Day 21
+
+* Project you are working on - (https://www.frontendmentor.io/challenges/coding-bootcamp-testimonials-slider-4FNyLA8JL)
+* Progress today - Today I used what I have learnt with flexbox to successfully plac e my background images. One problem I will have though is the curve image which sits at the bottom will not be able to move correctly once the page is set to desktop so now it must be placed within the footer.
+* Challenges you faced - Using the correct box method to set the pattern image.
+* Tasks for tomorrow - PLace. the surve image as a footer.
