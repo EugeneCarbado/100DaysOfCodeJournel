@@ -173,3 +173,10 @@ learn what I need to know then it will help me as I progress on.
 * Progress today - Today I learnt about using REM units to scale up a page. I will go back and start with a desktop first design.
 * Challenges you faced - Learning about REM units.
 * Tasks for tomorrow - Change so I am starting with a desktop first approach.
+
+## Day 23
+
+* Project you are working on - (https://www.frontendmentor.io/challenges/coding-bootcamp-testimonials-slider-4FNyLA8JL)
+* Progress today - I have started with the desktop first appraoch and have sorted the background images anf the footer.
+* Challenges you faced - Not much challenges today. Maybe a little with placing the pattern image in the right place.
+* Tasks for tomorrow - Start with the slider.
