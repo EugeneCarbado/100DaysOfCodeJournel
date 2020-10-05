@@ -180,3 +180,18 @@ learn what I need to know then it will help me as I progress on.
 * Progress today - I have started with the desktop first appraoch and have sorted the background images anf the footer.
 * Challenges you faced - Not much challenges today. Maybe a little with placing the pattern image in the right place.
 * Tasks for tomorrow - Start with the slider.
+
+
+## Day 23
+
+* Project you are working on - (https://www.frontendmentor.io/challenges/coding-bootcamp-testimonials-slider-4FNyLA8JL)
+* Progress today - I have started with the desktop first appraoch and have sorted the background images anf the footer.
+* Challenges you faced - Not much challenges today. Maybe a little with placing the pattern image in the right place.
+* Tasks for tomorrow - Start with the slider.
+
+## Day 24
+
+* Project you are working on - (https://www.frontendmentor.io/challenges/coding-bootcamp-testimonials-slider-4FNyLA8JL)
+* Progress today - Today I started working on the Javascript following an example video of a slider I found.
+* Challenges you faced - Learning about cross origin resource sharing!
+* Tasks for tomorrow - Learn more about CORS so I can finish the slider.
