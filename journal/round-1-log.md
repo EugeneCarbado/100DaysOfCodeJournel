@@ -195,3 +195,10 @@ learn what I need to know then it will help me as I progress on.
 * Progress today - Today I started working on the Javascript following an example video of a slider I found.
 * Challenges you faced - Learning about cross origin resource sharing!
 * Tasks for tomorrow - Learn more about CORS so I can finish the slider.
+
+## Day 25
+
+* Project you are working on - (https://www.frontendmentor.io/challenges/coding-bootcamp-testimonials-slider-4FNyLA8JL)
+* Progress today - I have not written much lines of code today. Instead I've sorted out how to get liveServer back up and running which will help when building websites. Also In posted my first question on stackoverflow as my app.js file is showing an error in the console.
+* Challenges you faced - Trying to get app.js up and running.
+* Tasks for tomorrow - Learn more about CORS so I can finish the slider.
