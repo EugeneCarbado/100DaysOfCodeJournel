@@ -209,3 +209,10 @@ learn what I need to know then it will help me as I progress on.
 * Progress today - Still had a problem with linking the Javascript app to my page. I have decided to build a new slider app in Javascript.
 * Challenges you faced - Trying to get app.js up and running still.
 * Tasks for tomorrow - Write the new code for the slider.
+
+## Day 27
+
+* Project you are working on - (https://www.frontendmentor.io/challenges/coding-bootcamp-testimonials-slider-4FNyLA8JL)
+* Progress today - Today I've been working on the info boxes and also figuring out where to start with the Javascript. I need to also think about layeringthe div's
+* Challenges you faced - Figuring out how the Javascriot should work.
+* Tasks for tomorrow - Learn about css positioning.
