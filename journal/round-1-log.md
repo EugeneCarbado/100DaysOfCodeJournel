@@ -216,3 +216,11 @@ learn what I need to know then it will help me as I progress on.
 * Progress today - Today I've been working on the info boxes and also figuring out where to start with the Javascript. I need to also think about layeringthe div's
 * Challenges you faced - Figuring out how the Javascriot should work.
 * Tasks for tomorrow - Learn about css positioning.
+
+
+## Day 28
+.
+* Project you are working on - (https://www.frontendmentor.io/challenges/coding-bootcamp-testimonials-slider-4FNyLA8JL)
+* Progress today - I learnt a valuable lesson today about css rules with backgrounds. So now i'm changing the code so I can get better results.
+* Challenges you faced - Starting th code again from scratch
+* Tasks for tomorrow - Finish writing new code.
