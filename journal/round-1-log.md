@@ -224,3 +224,10 @@ learn what I need to know then it will help me as I progress on.
 * Progress today - I learnt a valuable lesson today about css rules with backgrounds. So now i'm changing the code so I can get better results.
 * Challenges you faced - Starting th code again from scratch
 * Tasks for tomorrow - Finish writing new code.
+
+## Day 29
+.
+* Project you are working on - (https://www.frontendmentor.io/challenges/coding-bootcamp-testimonials-slider-4FNyLA8JL)
+* Progress today - Still trying to rework the code using a solution i've found. I've learnt little lessons but I really want to push for a win!
+* Challenges you faced - Trying to make the elements it where I need them.
+* Tasks for tomorrow - Keep reworking the code till I get what I need.
