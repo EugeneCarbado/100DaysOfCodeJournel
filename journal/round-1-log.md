@@ -231,3 +231,11 @@ learn what I need to know then it will help me as I progress on.
 * Progress today - Still trying to rework the code using a solution i've found. I've learnt little lessons but I really want to push for a win!
 * Challenges you faced - Trying to make the elements it where I need them.
 * Tasks for tomorrow - Keep reworking the code till I get what I need.
+
+
+## Day 29
+.
+* Project you are working on - (https://www.frontendmentor.io/challenges/coding-bootcamp-testimonials-slider-4FNyLA8JL)
+* Progress today - No code today. Instead I have been reading from CSS the missing manual. I need to grasp the basics of css to really push my skills.
+* Challenges you faced - None
+* Tasks for tomorrow - Keep reading.
