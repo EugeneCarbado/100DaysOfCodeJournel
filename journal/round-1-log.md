@@ -233,9 +233,16 @@ learn what I need to know then it will help me as I progress on.
 * Tasks for tomorrow - Keep reworking the code till I get what I need.
 
 
-## Day 29
+## Day 30
 .
 * Project you are working on - (https://www.frontendmentor.io/challenges/coding-bootcamp-testimonials-slider-4FNyLA8JL)
 * Progress today - No code today. Instead I have been reading from CSS the missing manual. I need to grasp the basics of css to really push my skills.
+* Challenges you faced - None
+* Tasks for tomorrow - Keep reading.
+
+## Day 31
+.
+* Project you are working on - (https://www.frontendmentor.io/challenges/coding-bootcamp-testimonials-slider-4FNyLA8JL)
+* Progress today - Today I read the book css the missing manual and folowed some starter examples in the code editor.
 * Challenges you faced - None
 * Tasks for tomorrow - Keep reading.
