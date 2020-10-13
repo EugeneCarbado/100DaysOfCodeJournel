@@ -246,3 +246,10 @@ learn what I need to know then it will help me as I progress on.
 * Progress today - Today I read the book css the missing manual and folowed some starter examples in the code editor.
 * Challenges you faced - None
 * Tasks for tomorrow - Keep reading.
+
+## Day 32
+.
+* Project you are working on - (https://www.frontendmentor.io/challenges/coding-bootcamp-testimonials-slider-4FNyLA8JL)
+* Progress today - Today I read about css selectors and how to use them in various scenarios. 
+* Challenges you faced - None.
+* Tasks for tomorrow - Keep reading.
