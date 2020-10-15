@@ -260,3 +260,10 @@ learn what I need to know then it will help me as I progress on.
 * Progress today - I did more learning on css selectors. I also learnt about inheritance and css resets
 * Challenges you faced - None.
 * Tasks for tomorrow - Keep reading.
+
+## Day 34
+.
+* Project you are working on - (https://www.frontendmentor.io/challenges/coding-bootcamp-testimonials-slider-4FNyLA8JL)
+* Progress today - Today I practiced somemore with css inheritance.
+* Challenges you faced - None.
+* Tasks for tomorrow - Keep reading.
