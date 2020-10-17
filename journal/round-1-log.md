@@ -275,3 +275,10 @@ learn what I need to know then it will help me as I progress on.
 * Progress today - No code today. I read up on different ways of using css fonts and also about resizing in css using ems, rems and percentages.
 * Challenges you faced - None.
 * Tasks for tomorrow - Keep reading.
+
+## Day 36
+.
+* Project you are working on - (https://www.frontendmentor.io/challenges/coding-bootcamp-testimonials-slider-4FNyLA8JL)
+* Progress today - Today I practiced text formatting on web pages with css.
+* Challenges you faced - None.
+* Tasks for tomorrow - Keep reading.
