@@ -282,3 +282,11 @@ learn what I need to know then it will help me as I progress on.
 * Progress today - Today I practiced text formatting on web pages with css.
 * Challenges you faced - None.
 * Tasks for tomorrow - Keep reading.
+
+## Day 37
+.
+* Project you are working on - (https://www.frontendmentor.io/challenges/coding-bootcamp-testimonials-slider-4FNyLA8JL)
+* Progress today - Today I read about the box model.
+* Challenges you faced - None.
+* Tasks for tomorrow - Keep reading.
+
