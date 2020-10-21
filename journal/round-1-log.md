@@ -304,3 +304,10 @@ learn what I need to know then it will help me as I progress on.
 * Progress today - Today I started reading about background properties
 * Challenges you faced - None.
 * Tasks for tomorrow - Keep reading.
+
+## Day 40
+.
+* Project you are working on - (https://www.frontendmentor.io/challenges/coding-bootcamp-testimonials-slider-4FNyLA8JL)
+* Progress today - Today I practiced with transitions and backgrounds.
+* Challenges you faced - None.
+* Tasks for tomorrow - Keep reading.
