@@ -213,7 +213,7 @@ learn what I need to know then it will help me as I progress on.
 ## Day 27
 
 * Project you are working on - (https://www.frontendmentor.io/challenges/coding-bootcamp-testimonials-slider-4FNyLA8JL)
-* Progress today - Today I've been working on the info boxes and also figuring out where to start with the Javascript. I need to also think about layeringthe div's
+* Progress today - Today I've been working on the info boxes and also figuring out where to start with the Javascript. I need to also think about layering the div's
 * Challenges you faced - Figuring out how the Javascriot should work.
 * Tasks for tomorrow - Learn about css positioning.
 
@@ -235,35 +235,35 @@ learn what I need to know then it will help me as I progress on.
 
 ## Day 30
 .
-* Project you are working on - (https://www.frontendmentor.io/challenges/coding-bootcamp-testimonials-slider-4FNyLA8JL)
+* Project you are working on - Css: The missing manual.
 * Progress today - No code today. Instead I have been reading from CSS the missing manual. I need to grasp the basics of css to really push my skills.
 * Challenges you faced - None
 * Tasks for tomorrow - Keep reading.
 
 ## Day 31
 .
-* Project you are working on - (https://www.frontendmentor.io/challenges/coding-bootcamp-testimonials-slider-4FNyLA8JL)
+* Project you are working on - Css: The missing manual.
 * Progress today - Today I read the book css the missing manual and folowed some starter examples in the code editor.
 * Challenges you faced - None
 * Tasks for tomorrow - Keep reading.
 
 ## Day 32
 .
-* Project you are working on - (https://www.frontendmentor.io/challenges/coding-bootcamp-testimonials-slider-4FNyLA8JL)
+* Project you are working on - Css: The missing manual.
 * Progress today - Today I read about css selectors and how to use them in various scenarios. 
 * Challenges you faced - None.
 * Tasks for tomorrow - Keep reading.
 
 ## Day 33
 .
-* Project you are working on - (https://www.frontendmentor.io/challenges/coding-bootcamp-testimonials-slider-4FNyLA8JL)
+* Project you are working on - Css: The missing manual.
 * Progress today - I did more learning on css selectors. I also learnt about inheritance and css resets
 * Challenges you faced - None.
 * Tasks for tomorrow - Keep reading.
 
 ## Day 34
 .
-* Project you are working on - (https://www.frontendmentor.io/challenges/coding-bootcamp-testimonials-slider-4FNyLA8JL)
+* Project you are working on - Css: The missing manual.
 * Progress today - Today I practiced somemore with css inheritance.
 * Challenges you faced - None.
 * Tasks for tomorrow - Keep reading.
@@ -271,28 +271,28 @@ learn what I need to know then it will help me as I progress on.
 
 ## Day 35
 .
-* Project you are working on - (https://www.frontendmentor.io/challenges/coding-bootcamp-testimonials-slider-4FNyLA8JL)
+* Project you are working on - Css: The missing manual.
 * Progress today - No code today. I read up on different ways of using css fonts and also about resizing in css using ems, rems and percentages.
 * Challenges you faced - None.
 * Tasks for tomorrow - Keep reading.
 
 ## Day 36
 .
-* Project you are working on - (https://www.frontendmentor.io/challenges/coding-bootcamp-testimonials-slider-4FNyLA8JL)
+* Project you are working on - Css: The missing manual.
 * Progress today - Today I practiced text formatting on web pages with css.
 * Challenges you faced - None.
 * Tasks for tomorrow - Keep reading.
 
 ## Day 37
 .
-* Project you are working on - (https://www.frontendmentor.io/challenges/coding-bootcamp-testimonials-slider-4FNyLA8JL)
+* Project you are working on - Css: The missing manual.
 * Progress today - Today I read about the box model.
 * Challenges you faced - None.
 * Tasks for tomorrow - Keep reading.
 
 ## Day 38
 .
-* Project you are working on - (https://www.frontendmentor.io/challenges/coding-bootcamp-testimonials-slider-4FNyLA8JL)
+* Project you are working on - Css: The missing manual.
 * Progress today - Today I read about the box model, and did some pracitce in the editor.
 * Challenges you faced - None.
 * Tasks for tomorrow - Keep reading.
@@ -300,14 +300,21 @@ learn what I need to know then it will help me as I progress on.
 
 ## Day 39
 .
-* Project you are working on - (https://www.frontendmentor.io/challenges/coding-bootcamp-testimonials-slider-4FNyLA8JL)
+* Project you are working on - Css: The missing manual.
 * Progress today - Today I started reading about background properties
 * Challenges you faced - None.
 * Tasks for tomorrow - Keep reading.
 
 ## Day 40
 .
-* Project you are working on - (https://www.frontendmentor.io/challenges/coding-bootcamp-testimonials-slider-4FNyLA8JL)
+* Project you are working on - Css: The missing manual.
 * Progress today - Today I practiced with transitions and backgrounds.
+* Challenges you faced - None.
+* Tasks for tomorrow - Keep reading.
+
+## Day 41
+.
+* Project you are working on - Css: The missing manual.
+* Progress today - Today I read up on styling buttons with css and also navigation link. I then did some practice in the editor.
 * Challenges you faced - None.
 * Tasks for tomorrow - Keep reading.
