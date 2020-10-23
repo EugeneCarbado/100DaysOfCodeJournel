@@ -318,3 +318,11 @@ learn what I need to know then it will help me as I progress on.
 * Progress today - Today I read up on styling buttons with css and also navigation link. I then did some practice in the editor.
 * Challenges you faced - None.
 * Tasks for tomorrow - Keep reading.
+
+
+## Day 42
+.
+* Project you are working on - Css: The missing manual.
+* Progress today - Today I read up on animations and transitions and did some practice in the editor.
+* Challenges you faced - None.
+* Tasks for tomorrow - Keep reading.
