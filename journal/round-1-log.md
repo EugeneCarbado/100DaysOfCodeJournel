@@ -336,9 +336,17 @@ learn what I need to know then it will help me as I progress on.
 * Tasks for tomorrow - Keep reading.
 
 
-## Day 43
+## Day 44
 .
 * Project you are working on - Css: The missing manual.
 * Progress today - Today i've started to read about building float based layouts.
+* Challenges you faced - None.
+* Tasks for tomorrow - Keep reading.
+
+
+## Day 45
+.
+* Project you are working on - Css: The missing manual.
+* Progress today - Today I did some practice in the editor with different fluid layout designs.
 * Challenges you faced - None.
 * Tasks for tomorrow - Keep reading.
