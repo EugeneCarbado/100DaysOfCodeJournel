@@ -358,3 +358,12 @@ learn what I need to know then it will help me as I progress on.
 * Progress today - Today I did some practice in the editor with positioning page elements.
 * Challenges you faced - None.
 * Tasks for tomorrow - Keep reading.
+
+
+## Day 47
+.
+* Project you are working on - Css: The missing manual.
+* Progress today - Today I did some practice with responsive websites making a site to fit different device sizes.
+* Challenges you faced - None.
+* Tasks for tomorrow - Keep reading.
+
