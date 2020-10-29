@@ -367,3 +367,11 @@ learn what I need to know then it will help me as I progress on.
 * Challenges you faced - None.
 * Tasks for tomorrow - Keep reading.
 
+
+## Day 48
+.
+* Project you are working on - Css: The missing manual.
+* Progress today - Today I did some practice with css girds and also practiced making a grid based website that can change when resized.
+* Challenges you faced - None.
+* Tasks for tomorrow - Keep reading.
+
