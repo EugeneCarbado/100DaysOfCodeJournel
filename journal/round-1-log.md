@@ -377,8 +377,16 @@ learn what I need to know then it will help me as I progress on.
 
 
 ## Day 49
-.
+
 * Project you are working on - Css: The missing manual.
 * Progress today - Today I did some practice with flex box and also did some practice in the editor.
+* Challenges you faced - None.
+* Tasks for tomorrow - Keep reading.
+
+
+## Day 50
+
+* Project you are working on - Css: The missing manual.
+* Progress today - No code today. Instead I read up about css habits to follow, and I also learnt about Sass.
 * Challenges you faced - None.
 * Tasks for tomorrow - Keep reading.
