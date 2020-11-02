@@ -400,7 +400,7 @@ learn what I need to know then it will help me as I progress on.
 * Tasks for tomorrow - Keep reading.
 
 
-## Day 50
+## Day 52
 
 * Project you are working on - Javascript & jQuery.
 * Progress today - Today I have started reading a book pn Javascript and jquery. I also did a little coding practice from an example in the book in the editor.
