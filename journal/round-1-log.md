@@ -390,3 +390,19 @@ learn what I need to know then it will help me as I progress on.
 * Progress today - No code today. Instead I read up about css habits to follow, and I also learnt about Sass.
 * Challenges you faced - None.
 * Tasks for tomorrow - Keep reading.
+
+
+## Day 51
+
+* Project you are working on - Css: The missing manual.
+* Progress today - No code today. I finished the book on Css and now will move to javascript.
+* Challenges you faced - None.
+* Tasks for tomorrow - Keep reading.
+
+
+## Day 50
+
+* Project you are working on - Javascript & jQuery.
+* Progress today - Today I have started reading a book pn Javascript and jquery. I also did a little coding practice from an example in the book in the editor.
+* Challenges you faced - None.
+* Tasks for tomorrow - Keep reading.
