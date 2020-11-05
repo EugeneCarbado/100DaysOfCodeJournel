@@ -416,9 +416,17 @@ learn what I need to know then it will help me as I progress on.
 * Tasks for tomorrow - Keep reading.
 
 
-## Day 53
+## Day 54
 
 * Project you are working on - Javascript & jQuery.
 * Progress today - Today I read up on differen data types in javascript.
+* Challenges you faced - None.
+* Tasks for tomorrow - Keep reading.
+
+
+## Day 55
+
+* Project you are working on - Javascript & jQuery.
+* Progress today - Today I worked with object models and worked with the date object maodel in the editor.
 * Challenges you faced - None.
 * Tasks for tomorrow - Keep reading.
