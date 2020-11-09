@@ -454,3 +454,10 @@ learn what I need to know then it will help me as I progress on.
 * Progress today - Not much reading today but still doing an update.
 * Challenges you faced - None.
 * Tasks for tomorrow - Keep reading.
+
+## Day 59
+
+* Project you are working on - Javascript & jQuery.
+* Progress today - Today I finshed the chapter on manipulating the DOM and did some practice in the editor.
+* Challenges you faced - None.
+* Tasks for tomorrow - Keep reading.
