@@ -446,3 +446,11 @@ learn what I need to know then it will help me as I progress on.
 * Progress today - No code today. Started reading about the DOM and accessing nodes.
 * Challenges you faced - None.
 * Tasks for tomorrow - Keep reading.
+
+
+## Day 58
+
+* Project you are working on - Javascript & jQuery.
+* Progress today - Not much reading today but still doing an update.
+* Challenges you faced - None.
+* Tasks for tomorrow - Keep reading.
