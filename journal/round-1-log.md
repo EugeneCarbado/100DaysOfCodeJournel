@@ -461,3 +461,11 @@ learn what I need to know then it will help me as I progress on.
 * Progress today - Today I finshed the chapter on manipulating the DOM and did some practice in the editor.
 * Challenges you faced - None.
 * Tasks for tomorrow - Keep reading.
+
+
+## Day 60
+
+* Project you are working on - Javascript & jQuery.
+* Progress today - Today I learnt about events and also the objects that they hold. I then did some practice in the editor.
+* Challenges you faced - None.
+* Tasks for tomorrow - Keep reading.
