@@ -469,3 +469,11 @@ learn what I need to know then it will help me as I progress on.
 * Progress today - Today I learnt about events and also the objects that they hold. I then did some practice in the editor.
 * Challenges you faced - None.
 * Tasks for tomorrow - Keep reading.
+
+
+## Day 61
+
+* Project you are working on - Javascript & jQuery.
+* Progress today - Today I am on the jQuery part of the book. I have learnt about various ways of using jQuery.
+* Challenges you faced - None.
+* Tasks for tomorrow - Keep reading.
