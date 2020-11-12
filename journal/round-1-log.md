@@ -479,7 +479,7 @@ learn what I need to know then it will help me as I progress on.
 * Tasks for tomorrow - Keep reading.
 
 
-## Day 61
+## Day 62
 
 * Project you are working on - Javascript & jQuery.
 * Progress today - Today I learnt about animations and transitions using jQuery.
