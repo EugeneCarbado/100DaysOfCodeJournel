@@ -509,3 +509,11 @@ learn what I need to know then it will help me as I progress on.
 * Progress today - Today I continued with learning about ajax and JSON.
 * Challenges you faced - None.
 * Tasks for tomorrow - Keep reading.
+
+
+## Day 66
+
+* Project you are working on - Javascript & jQuery.
+* Progress today - Today I practiced some ajax and json in the editor.
+* Challenges you faced - None.
+* Tasks for tomorrow - Keep reading.
