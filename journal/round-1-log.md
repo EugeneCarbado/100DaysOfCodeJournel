@@ -525,3 +525,11 @@ learn what I need to know then it will help me as I progress on.
 * Progress today - Today I learnt about api's, using jquery plugins and also how to integrate google maps into a website.
 * Challenges you faced - None.
 * Tasks for tomorrow - Keep reading.
+
+
+## Day 68
+
+* Project you are working on - Javascript & jQuery.
+* Progress today - Today I learnt about debugging and errors.
+* Challenges you faced - None.
+* Tasks for tomorrow - Keep reading.
