@@ -533,3 +533,11 @@ learn what I need to know then it will help me as I progress on.
 * Progress today - Today I learnt about debugging and errors.
 * Challenges you faced - None.
 * Tasks for tomorrow - Keep reading.
+
+
+## Day 69
+
+* Project you are working on - Javascript & jQuery.
+* Progress today - Finished the book so tomorrow I will continue with my challenges.
+* Challenges you faced - None.
+* Tasks for tomorrow - Keep reading.
