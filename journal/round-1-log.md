@@ -541,3 +541,11 @@ learn what I need to know then it will help me as I progress on.
 * Progress today - Finished the book so tomorrow I will continue with my challenges.
 * Challenges you faced - None.
 * Tasks for tomorrow - Keep reading.
+
+
+## Day 70
+
+* Project you are working on - Bootstrap
+* Progress today - Today I learnt about bootstrap. I will continue to learn and utilise this on my sites.
+* Challenges you faced - None.
+* Tasks for tomorrow - Keep reading.
