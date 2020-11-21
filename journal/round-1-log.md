@@ -549,3 +549,11 @@ learn what I need to know then it will help me as I progress on.
 * Progress today - Today I learnt about bootstrap. I will continue to learn and utilise this on my sites.
 * Challenges you faced - None.
 * Tasks for tomorrow - Keep reading.
+
+
+## Day 71
+
+* Project you are working on - Bootstrap
+* Progress today - Today I did some more practice with bootstrap. I've found a good 5 hour tutorial that i'll follow with an example and make notes with.
+* Challenges you faced - None.
+* Tasks for tomorrow - Keep reading.
