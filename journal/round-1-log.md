@@ -565,3 +565,11 @@ learn what I need to know then it will help me as I progress on.
 * Progress today - Today I started watching the bootstrap tutorial.
 * Challenges you faced - None.
 * Tasks for tomorrow - Keep reading.
+
+
+## Day 73
+
+* Project you are working on - Bootstrap
+* Progress today - Today I was making notes on the basics of bootstrap from the bootstrap video tutorial.
+* Challenges you faced - None.
+* Tasks for tomorrow - Keep reading.
