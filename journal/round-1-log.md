@@ -581,3 +581,11 @@ learn what I need to know then it will help me as I progress on.
 * Progress today - Today I've started on how to implement bootstrap onto my webpage..
 * Challenges you faced - None.
 * Tasks for tomorrow - Keep reading.
+
+
+## Day 75
+
+* Project you are working on - Bootstrap
+* Progress today - Today I finished a the bootstrap tutorial for the basics of bootstrap. Then I started on the project tutorial.
+* Challenges you faced - None.
+* Tasks for tomorrow - Keep reading.
