@@ -597,3 +597,12 @@ learn what I need to know then it will help me as I progress on.
 * Progress today - Today I finished the bootstrap tutorial and made my first bootstrap website.
 * Challenges you faced - None.
 * Tasks for tomorrow - Keep reading.
+
+
+
+## Day 77
+
+* Project you are working on - Bootstrap
+* Progress today - Had a little mess about with a hero section.
+* Challenges you faced - None.
+* Tasks for tomorrow - 
