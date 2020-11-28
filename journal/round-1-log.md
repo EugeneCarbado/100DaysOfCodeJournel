@@ -606,3 +606,11 @@ learn what I need to know then it will help me as I progress on.
 * Progress today - Had a little mess about with a hero section.
 * Challenges you faced - None.
 * Tasks for tomorrow - 
+
+
+## Day 78
+
+* Project you are working on - Bootstrap - https://codepen.io/EugeneCarbado/full/gOwbLmK
+* Progress today - Today I made a hero section. The hero section was based on an idea of connecting IT personal to web developers.
+* Challenges you faced - Not many. I just needed to go over the notes I logged.
+* Tasks for tomorrow - Make another hero section
