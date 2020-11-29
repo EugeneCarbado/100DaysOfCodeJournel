@@ -614,3 +614,11 @@ learn what I need to know then it will help me as I progress on.
 * Progress today - Today I made a hero section. The hero section was based on an idea of connecting IT personal to web developers.
 * Challenges you faced - Not many. I just needed to go over the notes I logged.
 * Tasks for tomorrow - Make another hero section
+
+
+## Day 79
+
+* Project you are working on - Bootstrap - https://codepen.io/EugeneCarbado/full/zYKxLjR
+* Progress today - Today I worked on a hero section that helps family connect with one another.
+* Challenges you faced - How to use gradients for backgrounds
+* Tasks for tomorrow - Make another hero section
