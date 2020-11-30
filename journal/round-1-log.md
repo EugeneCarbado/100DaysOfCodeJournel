@@ -622,3 +622,12 @@ learn what I need to know then it will help me as I progress on.
 * Progress today - Today I worked on a hero section that helps family connect with one another.
 * Challenges you faced - How to use gradients for backgrounds
 * Tasks for tomorrow - Make another hero section
+
+
+
+## Day 80
+
+* Project you are working on - Bootstrap - https://codepen.io/EugeneCarbado/full/ExgjNbP
+* Progress today - Today I worked on a hero section that helps family connect with one another.
+* Challenges you faced - making a nav bar/ border margins.
+* Tasks for tomorrow - Make another hero section
