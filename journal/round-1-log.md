@@ -624,10 +624,17 @@ learn what I need to know then it will help me as I progress on.
 * Tasks for tomorrow - Make another hero section
 
 
-
 ## Day 80
 
 * Project you are working on - Bootstrap - https://codepen.io/EugeneCarbado/full/ExgjNbP
 * Progress today - Today I worked on a hero section that helps family connect with one another.
 * Challenges you faced - making a nav bar/ border margins.
+* Tasks for tomorrow - Make another hero section
+
+
+## Day 81
+
+* Project you are working on - Bootstrap - https://codepen.io/EugeneCarbado/full/ExgjNbP
+* Progress today - Nothing much today. I was playing with negative margins abit in bootstrap and I discovered how to get rid of padding and margins.
+* Challenges you faced - Negative margin on the right hand side.
 * Tasks for tomorrow - Make another hero section
