@@ -638,3 +638,11 @@ learn what I need to know then it will help me as I progress on.
 * Progress today - Nothing much today. I was playing with negative margins abit in bootstrap and I discovered how to get rid of padding and margins.
 * Challenges you faced - Negative margin on the right hand side.
 * Tasks for tomorrow - Make another hero section
+
+
+## Day 82
+
+* Project you are working on - N/A
+* Progress today - No update today. I joined udacity's front end nano degree course. It starts tomorrow.
+* Challenges you faced - N/A
+* Tasks for tomorrow - Start course.
