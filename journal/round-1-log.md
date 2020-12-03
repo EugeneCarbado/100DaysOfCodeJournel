@@ -646,3 +646,11 @@ learn what I need to know then it will help me as I progress on.
 * Progress today - No update today. I joined udacity's front end nano degree course. It starts tomorrow.
 * Challenges you faced - N/A
 * Tasks for tomorrow - Start course.
+
+
+## Day 83
+
+* Project you are working on - Udacity front end nano degree.
+* Progress today - Today I started the course. I recapped on alot of basic html and css. The next step will be to start by building a portfolio blog.
+* Challenges you faced - N/A
+* Tasks for tomorrow - Continue with lesson.
