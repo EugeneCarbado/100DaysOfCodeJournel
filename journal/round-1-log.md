@@ -654,3 +654,11 @@ learn what I need to know then it will help me as I progress on.
 * Progress today - Today I started the course. I recapped on alot of basic html and css. The next step will be to start by building a portfolio blog.
 * Challenges you faced - N/A
 * Tasks for tomorrow - Continue with lesson.
+
+
+## Day 84
+
+* Project you are working on - Udacity front end nano degree (blog project).
+* Progress today - Today I started with my blog project and made a git repository.
+* Challenges you faced - Cloning git project to computer.
+* Tasks for tomorrow - Start building the blog.
