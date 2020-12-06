@@ -670,3 +670,11 @@ learn what I need to know then it will help me as I progress on.
 * Progress today - Today I built the main structure for the blog and started to design the theme.
 * Challenges you faced - Centering the title so it sits on the middle of the page
 * Tasks for tomorrow - Finish the hero section.
+
+
+## Day 86
+
+* Project you are working on - Udacity front end nano degree (blog project).
+* Progress today - Today I worked on the structure of the header section using css grid.
+* Challenges you faced - Centering the title so it sits on the middle of the page
+* Tasks for tomorrow - Finish the hero section.
