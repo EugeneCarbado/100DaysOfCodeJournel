@@ -678,3 +678,12 @@ learn what I need to know then it will help me as I progress on.
 * Progress today - Today I worked on the structure of the header section using css grid.
 * Challenges you faced - Centering the title so it sits on the middle of the page
 * Tasks for tomorrow - Finish the hero section.
+
+
+
+## Day 87
+
+* Project you are working on - Udacity front end nano degree (blog project).
+* Progress today - Tried to sort out the layout responsiveness as I have noticed it is not resizing well and the text keeps squeezing together.
+* Challenges you faced - Resizing issues
+* Tasks for tomorrow - Start with a mobile first design.
