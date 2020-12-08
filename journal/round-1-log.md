@@ -680,10 +680,17 @@ learn what I need to know then it will help me as I progress on.
 * Tasks for tomorrow - Finish the hero section.
 
 
-
 ## Day 87
 
 * Project you are working on - Udacity front end nano degree (blog project).
 * Progress today - Tried to sort out the layout responsiveness as I have noticed it is not resizing well and the text keeps squeezing together.
 * Challenges you faced - Resizing issues
 * Tasks for tomorrow - Start with a mobile first design.
+
+
+## Day 88
+
+* Project you are working on - Udacity front end nano degree (blog project).
+* Progress today - Today I restarted the whole design using a mobile first approach and it has been really successful. I've also managed to center the title with it not moving when the screen is resized.
+* Challenges you faced - Centering the title so it does not move when the screen flips on mobile.
+* Tasks for tomorrow - Make the hamburger.
