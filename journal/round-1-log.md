@@ -694,3 +694,11 @@ learn what I need to know then it will help me as I progress on.
 * Progress today - Today I restarted the whole design using a mobile first approach and it has been really successful. I've also managed to center the title with it not moving when the screen is resized.
 * Challenges you faced - Centering the title so it does not move when the screen flips on mobile.
 * Tasks for tomorrow - Make the hamburger.
+
+
+## Day 89
+
+* Project you are working on - Udacity front end nano degree (blog project).
+* Progress today - Today was a great one! Found a really good YouTube post for a hamburger menu. So now i've put it on the blog and it looks exactly how I want it to.
+* Challenges you faced - The hamburger
+* Tasks for tomorrow - Start on the blog posts.
