@@ -704,7 +704,7 @@ learn what I need to know then it will help me as I progress on.
 * Tasks for tomorrow - Start on the blog posts.
 
 
-## Day 89
+## Day 90
 
 * Project you are working on - Udacity front end nano degree (blog project).
 * Progress today - Today I sorted the links in the nav bar so they now work. I've started on the blog posts. The next step is to style them and make sure the posts keep inside there areas.
