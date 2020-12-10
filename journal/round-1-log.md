@@ -702,3 +702,11 @@ learn what I need to know then it will help me as I progress on.
 * Progress today - Today was a great one! Found a really good YouTube post for a hamburger menu. So now i've put it on the blog and it looks exactly how I want it to.
 * Challenges you faced - The hamburger
 * Tasks for tomorrow - Start on the blog posts.
+
+
+## Day 89
+
+* Project you are working on - Udacity front end nano degree (blog project).
+* Progress today - Today I sorted the links in the nav bar so they now work. I've started on the blog posts. The next step is to style them and make sure the posts keep inside there areas.
+* Challenges you faced - The hamburger
+* Tasks for tomorrow - Start on the blog posts.
