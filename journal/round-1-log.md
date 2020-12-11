@@ -708,5 +708,13 @@ learn what I need to know then it will help me as I progress on.
 
 * Project you are working on - Udacity front end nano degree (blog project).
 * Progress today - Today I sorted the links in the nav bar so they now work. I've started on the blog posts. The next step is to style them and make sure the posts keep inside there areas.
-* Challenges you faced - The hamburger
-* Tasks for tomorrow - Start on the blog posts.
+* Challenges you faced - Nav links
+* Tasks for tomorrow - Blog post styles.
+
+
+## Day 91
+
+* Project you are working on - Udacity front end nano degree (blog project).
+* Progress today - Today I've styled the blog posts and added the content. They are looking really great. the next step is the footer.
+* Challenges you faced - Styling the posts.
+* Tasks for tomorrow - Footer.
