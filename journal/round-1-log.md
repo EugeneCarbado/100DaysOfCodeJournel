@@ -718,3 +718,12 @@ learn what I need to know then it will help me as I progress on.
 * Progress today - Today I've styled the blog posts and added the content. They are looking really great. the next step is the footer.
 * Challenges you faced - Styling the posts.
 * Tasks for tomorrow - Footer.
+
+
+## Day 92
+
+* Project you are working on - Udacity front end nano degree (blog project).
+* Progress today - Today I've finished the footer and also added some more blogs. I've also added a archive card to my blog site. Next will be to make a contacts page.
+
+* Challenges you faced - Not much challenges
+* Tasks for tomorrow - contact page/media styles
