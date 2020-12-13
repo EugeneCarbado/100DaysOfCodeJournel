@@ -727,3 +727,11 @@ learn what I need to know then it will help me as I progress on.
 
 * Challenges you faced - Not much challenges
 * Tasks for tomorrow - contact page/media styles
+
+
+## Day 93
+
+* Project you are working on - Udacity front end nano degree (blog project).
+* Progress today - Today I've finished the blog course work website including media queries. I have now submitted the work.
+* Challenges you faced - Sorting the media queries for the correct sizes.
+* Tasks for tomorrow - Start the next piece of course work.
