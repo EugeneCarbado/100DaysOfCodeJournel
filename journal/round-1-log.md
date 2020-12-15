@@ -743,3 +743,11 @@ learn what I need to know then it will help me as I progress on.
 * Progress today - Today I did the requests that the mentor sent me about my project. So now all the corrections are done and I have sent it for review.
 * Challenges you faced - Sorting the corrections for my blog site.
 * Tasks for tomorrow - Start the next piece of course work.
+
+
+## Day 95
+
+* Project you are working on - Udacity front end nano degree (blog project).
+* Progress today - Resubmitted my project after fixing all the the necessary details.
+* Challenges you faced - Sorting the corrections for my blog site.
+* Tasks for tomorrow - Start the next piece of course work.
