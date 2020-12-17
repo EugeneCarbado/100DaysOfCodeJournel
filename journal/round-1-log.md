@@ -751,3 +751,10 @@ learn what I need to know then it will help me as I progress on.
 * Progress today - Resubmitted my project after fixing all the the necessary details.
 * Challenges you faced - Sorting the corrections for my blog site.
 * Tasks for tomorrow - Start the next piece of course work.
+
+## Day 96
+
+* Project you are working on - Udacity front end nano degree (Javascript).
+* Progress today - Today I started the Javascript portion of my course
+* Challenges you faced - some quiz challenges
+* Tasks for tomorrow - Continue course.
