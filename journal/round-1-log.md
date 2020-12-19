@@ -758,3 +758,11 @@ learn what I need to know then it will help me as I progress on.
 * Progress today - Today I started the Javascript portion of my course
 * Challenges you faced - some quiz challenges
 * Tasks for tomorrow - Continue course.
+
+
+## Day 97
+
+* Project you are working on - Udacity front end nano degree (Javascript).
+* Progress today - Today I was learning about the DOM.
+* Challenges you faced - some quiz challenges
+* Tasks for tomorrow - Continue course.
